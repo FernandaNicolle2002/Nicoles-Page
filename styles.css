@@ -1,0 +1,31 @@
+img{
+    width:300px;
+}
+ h1{
+     color: white;
+     font-family: 'Roboto Condensed', sans-serif;
+ }
+ h2{ color: White;
+ font-family: 'Roboto Condensed', sans-serif;
+ }
+ h3{ color: White;
+ font-family: 'Roboto Condensed', sans-serif;
+ }
+ h4{ color: White;
+ font-family: 'Roboto Condensed', sans-serif;
+ }
+ h5{ color: white;
+ font-family: 'Roboto Condensed', sans-serif;
+ }
+ h6{ color: white;
+ font-family: 'Roboto Condensed', sans-serif;
+ }
+ my-tag{ color:white;
+ font-family: 'Roboto Condensed', sans-serif;
+ }
+ p{color:red;
+ font-family: 'Roboto Condensed', sans-serif;
+ }
+ body{
+ background-image: url("https://clip2art.com/images/drawn-black-cat-all-black-8.jpg");
+ }
